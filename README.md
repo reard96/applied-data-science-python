@@ -4,4 +4,4 @@ Here are the course files from the Coursera Applied Data Science with Python Spe
 
 --- 
 
-I'm running the `.ipynb` files offline using [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/). 
+I'm running the `.ipynb` files offline using [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/). My work is found in the 'Assignment' `.ipynb` files.

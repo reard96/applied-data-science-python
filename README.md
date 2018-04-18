@@ -9,3 +9,5 @@ I'm running the `.ipynb` files either:
 * offline using [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/). 
 
 My code can be found in the 'Assignment' `.ipynb` files.
+
+_Notes to add: plotting-charting week 4; text-mining; social-network-analysis._

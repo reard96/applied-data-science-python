@@ -10,4 +10,4 @@ I'm running the `.ipynb` files either:
 
 My code can be found in the 'Assignment' `.ipynb` files.
 
-_Notes to add: plotting-charting week 4; text-mining; social-network-analysis._
+_Notes to add: plotting-charting week 4; text-mining (up to date thru week 3); social-network-analysis (all)._
